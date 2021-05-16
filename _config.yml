@@ -1,0 +1,39 @@
+# Site settings
+name: Harsh Agarwal
+title: Harsh Agarwal | Data Scientist
+description: Data Scientist | Competitive Programmer | Freelancer
+url: https://harsh9200.github.io/
+baseurl: ''
+email: hagarwal9200@gmail.com
+cover: https://harsh9200.github.io/img/og.png
+logo: https://harsh9200.github.io/img/emojis/technologist.png
+resume: https://drive.google.com/file/d/11WWDuJlKdol4SY5TaRkKkH8_4awg0fda/view?usp=sharing
+social:
+  - title: email
+    url: mailto:brittany.chiang@gmail.com
+  - title: github
+    url: https://github.com/harsh9200
+  - title: linkedin
+    url: https://www.linkedin.com/in/harsh9200
+
+# Build settings
+markdown: kramdown
+
+exclude:
+  - 'Gemfile'
+  - 'Gemfile.lock'
+  - '*.gemspec'
+  - 'README.md'
+  - 'node_modules'
+  - 'build'
+  - 'gulpfile.js'
+  - 'package.json'
+
+keep_files:
+  - 'CNAME'
+  - '.git'
+  - '.gitignore'
+
+plugins_dir:
+  - jekyll-minifier
+  - jekyll-sitemap

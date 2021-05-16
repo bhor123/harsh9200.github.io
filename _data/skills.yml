@@ -1,0 +1,28 @@
+languages:
+  - item: Python
+  - item: Java
+  - item: C++
+  - item: SQL
+
+frameworks:
+  - item: TensorFlow
+  - item: Keras
+  - item: PyTorch
+  - item: Scikit-Learn
+  - item: Flask
+
+tools:
+  - item: Git & Github
+  - item: Postman
+  - item: Docker
+  - item: Anaconda
+  - item: Jupyter Notebooks
+  - item: VS Code
+
+libraries:
+  - item: Pandas
+  - item: Numpy
+  - item: Matplotlib
+  - item: Plotly
+  - item: Selenium
+  - item: Scrapy
