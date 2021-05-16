@@ -1,6 +1,6 @@
 - name: ID Forgery Detection | Freelance
-  # url: https://github.com/bchiang7/Surf-Videos
-  # code: https://github.com/bchiang7/Surf-Videos
+  url: https://github.com/bchiang7/Surf-Videos
+  code: 
   description: Trained ManTraNet pretrained model on custom images of identity cards to detect fraud in ID cards. 
   used:
     - thing: Python
@@ -8,6 +8,8 @@
     - thing: Tensorflow
 
 - name: Discord Bot
+  url: https://github.com/bchiang7/Surf-Videos
+  code: 
   description: Built a discord bot that will automate payment gateway.
   used:
     - thing: Python
@@ -15,6 +17,8 @@
     - thing: Integromat
 
 - name: Scraping Twitter, Reddit and Instagram | Freelance
+  url: https://github.com/bchiang7/Surf-Videos
+  code: 
   description: Built a scraping bot that will scrape all the platforms based on provided Hashtag, preprocess the data.
   used:
     - thing: Python
@@ -22,6 +26,8 @@
 
 
 - name: Image Background Removal | Freelance
+  url: https://github.com/bchiang7/Surf-Videos
+  code: 
   description: Replicated U2-Net Model Architecture from scratch to be able to remove images background.
   used:
     - thing: Python
