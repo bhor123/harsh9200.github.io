@@ -1,20 +1,11 @@
-- name: ID Forgery Detection | Freelance
-  url: https://github.com/bchiang7/Surf-Videos
+- name: OrganizationEmployee_Microservice
+  url: https://github.com/bhor123/OrganizationEmployee_Microservice
   code: 
-  description: Trained ManTraNet pretrained model on custom images of identity cards to detect fraud in ID cards. 
+  description: A Microservice to maintain Employee and it's organization's Information.
   used:
-    - thing: Python
-    - thing: Docker
-    - thing: Tensorflow
+    - thing: Java
+    - thing: Request API
 
-- name: Discord Bot
-  url: https://github.com/bchiang7/Surf-Videos
-  code: 
-  description: Built a discord bot that will automate payment gateway.
-  used:
-    - thing: Python
-    - thing: Discord API
-    - thing: Integromat
 
 - name: Scraping Twitter, Reddit and Instagram | Freelance
   url: https://github.com/bchiang7/Surf-Videos
@@ -25,13 +16,13 @@
     - thing: Request API
 
 
-- name: Image Background Removal | Freelance
-  url: https://github.com/bchiang7/Surf-Videos
+- name: YelpCamp
+  url: https://github.com/bhor123/Yelpcamp3
   code: 
-  description: Replicated U2-Net Model Architecture from scratch to be able to remove images background.
+  description: A website for viewing different Campgrounds and can comment on existing campgrounds.Also users can add custom campgrounds
   used:
-    - thing: Python
-    - thing: Pytorch
-    - thing: Deep Learning
+    - thing: HTML, CSS, JavaScript
+    - thing: NodeJS, Express,MongoDB
+    - thing: Web development
 
 
