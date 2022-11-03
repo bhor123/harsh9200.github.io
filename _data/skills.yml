@@ -1,28 +1,20 @@
 languages:
-  - item: Python
   - item: Java
   - item: C++
   - item: SQL
 
 frameworks:
-  - item: TensorFlow
-  - item: Keras
-  - item: PyTorch
-  - item: Scikit-Learn
-  - item: Flask
+  - item: Node.js
+  - item: Express.js
+  - item: Socket.IO
 
 tools:
   - item: Git & Github
   - item: Postman
-  - item: Docker
-  - item: Anaconda
-  - item: Jupyter Notebooks
   - item: VS Code
+  - item: Docker
+  - item: Jupyter Notebooks
 
-design:
-  - item: Pandas
-  - item: Numpy
-  - item: Matplotlib
-  - item: Plotly
-  - item: Selenium
-  - item: Scrapy
+Operating Systems:
+  -item: Windows
+  -item: Ubuntu
